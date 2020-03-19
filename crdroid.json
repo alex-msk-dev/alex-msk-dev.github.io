@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "alex.msk",
+        "oem": "Xiaomi",
+        "device": "Xiaomi Mi MIX 3 5G",
+        "filename": "crDroidAndroid-10.0-20200317-andromeda-v6.4.zip",
+        "download": "https://sourceforge.net/projects/crdroid/files/andromeda/6.x/crDroidAndroid-10.0-20200317-andromeda-v6.4.zip/download",
+        "timestamp": 1584449837,
+        "md5": "03447f4aa166dbb636fc1d14a86e1db5",
+        "size": 1644036096,
+        "version": "6.4",
+        "buildtype": "Monthly",
+        "forum": "https://forum.xda-developers.com/mi-mix-3/development",
+        "gapps": "https://opengapps.org/?arch=arm64&api=10.0&variant=nano",
+        "firmware": "http://bigota.d.miui.com/V10.3.23.0.PEMEUXM/andromeda_eea_global_images_V10.3.23.0.PEMEUXM_20200113.0000.00_9.0_eea_caae3111ca.tgz",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "https://forum.xda-developers.com/mi-mix-3/development/recovery-unofficial-twrp-xiaomi-mi-mix-t3941867",
+        "paypal": "https://money.yandex.ru/to/410013551746262",
+        "telegram": "https://t.me/alex_msk_99"
+    }
+  ]
+}
