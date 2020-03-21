@@ -1,3 +1,4 @@
+<OTA>
     <!-- XIAOMI -->
     <manufacturer id="Xiaomi">
         <andromeda>
@@ -16,3 +17,4 @@
             <telegram>https://t.me</telegram>
         </andromeda>
     </manufacturer>
+</OTA>
