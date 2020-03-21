@@ -1,6 +1,6 @@
     <!-- XIAOMI -->
     <manufacturer id="Xiaomi">
-	    <andromeda>
+        <andromeda>
             <maintainer>alex.msk</maintainer>
             <devicename>Xiaomi Mi MIX 3 5G</devicename>
             <filename>crDroidAndroid-9.0-20200320-andromeda-v5.12</filename>
