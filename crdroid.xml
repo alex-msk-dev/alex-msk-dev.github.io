@@ -1,0 +1,17 @@
+    <!-- XIAOMI -->
+    <manufacturer id="Xiaomi">
+	    <andromeda>
+            <maintainer>alex.msk</maintainer>
+            <devicename>Xiaomi Mi MIX 3 5G</devicename>
+            <filename>crDroidAndroid-9.0-20200320-andromeda-v5.12</filename>
+            <buildtype>Weekly</buildtype>
+            <download>https://sourceforge.net/projects/andromeda-build/files/Crdroid/crDroidAndroid-9.0-20200320-andromeda-v5.12.zip/download</download>
+            <changelog>https://alex-msk-dev.github.io/changelog_crdroid9.txt</changelog>
+            <gapps>https://opengapps.org/</gapps>
+            <forum>https://forum.xda-developers.com/mi-mix-3/development</forum>
+            <firmware>http://bigota.d.miui.com/V10.3.23.0.PEMEUXM/andromeda_eea_global_images_V10.3.23.0.PEMEUXM_20200113.0000.00_9.0_eea_caae3111ca.tgz</firmware>
+            <vendor>https://</vendor>
+            <recovery>https://forum.xda-developers.com/mi-mix-3/development/recovery-unofficial-twrp-xiaomi-mi-mix-t3941867</recovery>
+            <paypal>https://money.yandex.ru/to/410013551746262</paypal>
+	        <telegram>https://t.me/alex_msk_99</telegram>
+        </andromeda>
