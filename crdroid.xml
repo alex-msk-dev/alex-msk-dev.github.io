@@ -1,5 +1,3 @@
-    <!-- XIAOMI -->
-    <manufacturer id="Xiaomi">
         <andromeda>
             <maintainer>alex.msk</maintainer>
             <devicename>Xiaomi Mi MIX 3 5G</devicename>
