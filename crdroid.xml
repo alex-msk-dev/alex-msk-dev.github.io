@@ -3,7 +3,7 @@
         <andromeda>
             <maintainer>alex.msk</maintainer>
             <devicename>Xiaomi Mi MIX 3 5G</devicename>
-            <filename>crDroidAndroid-9.0-20200321-andromeda-v5.12</filename>
+            <filename>crDroidAndroid-9.0-20200321-andromeda-v5.13</filename>
             <buildtype>Weekly</buildtype>
             <download>https://sourceforge.net/projects/andromeda-build/files/Crdroid/crDroidAndroid-9.0-20200321-andromeda-v5.12.zip/download</download>
             <changelog>https://alex-msk-dev.github.io/changelog_crdroid9.txt</changelog>
