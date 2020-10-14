@@ -2,11 +2,11 @@
   "response": [ 
     { 
       "datetime": 1602598771, 
-      "filename": "RROS-Q-8.6.2-20201014-surya-Experimental.zip", 
+      "filename": "RROS-Q-8.6.2-20201014-surya-official.zip", 
       "id": "e07cd93ce01fec11e75e9be1ea9ab0eed30bff5d9c2cf253e3138d58563b883b", 
-      "romtype": "Experimental", 
+      "romtype": "official", 
       "size": 1377388859, 
-      "url": "https://ota.resurrectionremix.com/ten/guacamole/RROS-Q-8.6.2-20201014-surya-Experimental.zip", 
+      "url": "https://ota.resurrectionremix.com/ten/guacamole/RROS-Q-8.6.2-20201014-surya-official.zip", 
       "version": "8.6.2"  
     }
   ]
