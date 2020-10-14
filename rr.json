@@ -1,13 +1,13 @@
-{
-  "response": [
-    {
-        "filename": "RROS-Q-8.6.2-20201013-surya-Experimental.zip",
-        "download": "https://github.com/alex-msk-dev/alex-msk-dev.github.io/releases/download/Crdroid/RROS-Q-8.6.2-20201013-surya-Experimental.zip",
-        "timestamp": 1602588531,
-        "md5": "804d0e939f521c9063c853c96c6b36c8",
-        "size": 1377388859,
-        "version": "8.6.2",
-        "buildtype": "Experimental",
+{ 
+  "response": [ 
+    { 
+      "datetime": 1602598771, 
+      "filename": "RROS-Q-8.6.2-20201014-surya-Experimental.zip", 
+      "id": "e07cd93ce01fec11e75e9be1ea9ab0eed30bff5d9c2cf253e3138d58563b883b", 
+      "romtype": "Experimental", 
+      "size": 1377388859, 
+      "url": "https://ota.resurrectionremix.com/ten/guacamole/RROS-Q-8.6.2-20201014-surya-Experimental.zip", 
+      "version": "8.6.2"  
     }
   ]
 }
