@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1603030325,
-      "filename": "RROS-Q-8.6.3-20201018-surya-official.zip",
+      "datetime": 1603104450,
+      "filename": "RROS-Q-8.6.3-20201019-surya-official.zip",
       "id": "2e7cdbe17e74bfe521237914244a2072",
       "romtype": "official",
       "size": 1129437553,
-      "url": "https://github.com/alex-msk-dev/alex-msk-dev.github.io/releases/download/rr/RROS-Q-8.6.3-20201018-surya-official.zip",
+      "url": "https://github.com/alex-msk-dev/alex-msk-dev.github.io/releases/download/rr/RROS-Q-8.6.3-20201019-surya-official.zip",
       "version": "8.6.3"
     }
   ]
