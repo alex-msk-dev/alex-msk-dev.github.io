@@ -1,13 +1,9 @@
-{
-  "response": [
-    {
-      "datetime": 1603030325,
-      "filename": "RROS-Q-8.6.3-20201018-surya-Weekly.zip",
-      "id": "3e19b73e055a56480033cb6eb6bdc4e9cf0be2b6200823199873d83af5100dba",
-      "romtype": "weakly",
-      "size": 1129437553,
-      "url": "https://github.com/alex-msk-dev/alex-msk-dev.github.io/releases/download/rr/RROS-Q-8.6.3-20201018-surya-Weekly.zip",
-      "version": "8.6.3"
-    }
-  ]
-}
+{ "response": [ { "datetime": 1603030325, "filename": "", "id": "e22221f5b191c2ec9e917adfd0c3896a36f3f58894b3440632fbe32d3ccd1647
+8a7105f85f3837577b860a837c35f9208b72b8070f85295c36e26c9adff1fa6b
+ff89fa9bbd3e6377dc7c0c374fbfda34e61f18b3ba37572ff7205e119989f3f9
+0399930031318c2042738748e1490d62431e542c5f116de2b55d3ac0e4b7b2a2
+d47cca3b106aa4ce62263e561ae05585639c17e6fca64eafc6a1fe076b038e88", "romtype": "Weekly", "size": 1129437553
+1129476310
+1129422688
+1129082601
+1129063707, "url": "https://ota.resurrectionremix.com/ten/surya/", "version": "8.6.3"  }]}
