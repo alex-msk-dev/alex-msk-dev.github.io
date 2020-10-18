@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1602956164,
-      "filename": "RROS-Q-8.6.3-20201018-surya-Experimental.zip",
+      "datetime": 1603030325,
+      "filename": "RROS-Q-8.6.3-20201018-surya-Weekly.zip",
       "id": "3e19b73e055a56480033cb6eb6bdc4e9cf0be2b6200823199873d83af5100dba",
       "romtype": "weakly",
-      "size": 1123623510,
-      "url": "https://github.com/alex-msk-dev/alex-msk-dev.github.io/releases/download/rr/RROS-Q-8.6.3-20201018-surya-Experimental.zip",
+      "size": 1129437553,
+      "url": "https://github.com/alex-msk-dev/alex-msk-dev.github.io/releases/download/rr/RROS-Q-8.6.3-20201018-surya-Weekly.zip",
       "version": "8.6.3"
     }
   ]
