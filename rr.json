@@ -1,3 +1,13 @@
-{ "response": [ { "datetime": 1602756164, "filename": "RROS-Q-8.6.2-20201015-surya-Experimental_v5.zip", "id": "384147ecd132a1fd501d5936b6ec51a8bda9e8c1f91a4dd5630653b11c792db9
-9a58e87de1ca45ea9df4e12d6f5e6705ef3b3391fefd868bd52737337ff340e9", "romtype": "Experimental", "size": 1123623510
-1123551857, "url": "https://ota.resurrectionremix.com/ten/surya/RROS-Q-8.6.2-20201015-surya-Experimental_v5.zip", "version": "8.6.2"  }]}
+{
+  "response": [
+    {
+      "datetime": 1602956164,
+      "filename": "RROS-Q-8.6.3-20201018-surya-Experimental.zip",
+      "id": "3e19b73e055a56480033cb6eb6bdc4e9cf0be2b6200823199873d83af5100dba",
+      "romtype": "weakly",
+      "size": 1123623510,
+      "url": "https://github.com/alex-msk-dev/alex-msk-dev.github.io/releases/download/rr/RROS-Q-8.6.3-20201018-surya-Experimental.zip",
+      "version": "8.6.3"
+    }
+  ]
+}
