@@ -1,4 +1,4 @@
-Russian:
+✅ Russian:
 - Обновленные исходники
 - Объединение Surya и Karna, большое спасибо mahajant99. Для пользователей Karna следует использовать любое кастомное ядро.
 - Обновленный перевод
@@ -6,7 +6,7 @@ Russian:
 - Обновлён Apn config
 - Поддержка OTA
 
-English:
+✅ English:
 - Updated source code
 - The unified of Karna and Surya, thank you very much mahajant99. For Karna users, you should use any custom kernel.
 - Updated translation
