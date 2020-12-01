@@ -2,8 +2,10 @@
 - Обновленные исходники
 - Исправлены краши Лаунчера
 - Исправлена ошибки в меню питания. (Были недоступны кнопки расширенной перезагрузки)
+- Исправлен отвал APN
 ----------
 ✅ English:
 - Updated source code
 - Fixed Launcher crashes
 - Fixed bugs in the power menu. (The extended restart buttons were not available)
+- Fixed APN crashe
