@@ -4,6 +4,7 @@
 - Добавлен модуль стерео из 12.0.2.0 версии, для хорошего звука на новых вендорах
 - Обновлён перевод настроек
 - Исправлена Запись 4К видео
+- Обновлён power profile до версии v12.0.4
 ----------
 ✅ English:
 - Updated sources (Google security Patch for December)
@@ -11,3 +12,4 @@
 - Added the stereo module from version 12.0.2.0, for good sound on new vendors
 - Updated translation of settings
 - Fixed 4K video Recording
+- Update power profile from v12.0.4
