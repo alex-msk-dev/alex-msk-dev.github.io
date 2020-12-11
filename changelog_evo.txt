@@ -1,11 +1,13 @@
 ✅ Russian:
-- Обновленные исходники
-- Исправлены краши Лаунчера
-- Исправлена ошибки в меню питания. (Были недоступны кнопки расширенной перезагрузки)
-- Исправлен отвал APN
+- Обновлённые исходники (Патч безопасности Google за декабрь)
+- Исправлены проблемы с WIFI 5Ghz
+- Добавлен модуль стерео из 12.0.2.0 версии, для хорошего звука на новых вендорах
+- Обновлён перевод настроек
+- Исправлена Запись 4К видео
 ----------
 ✅ English:
-- Updated source code
-- Fixed Launcher crashes
-- Fixed bugs in the power menu. (The extended restart buttons were not available)
-- Fixed APN crashe
+- Updated sources (Google security Patch for December)
+- fixed issues with WIFI 5Ghz
+- Added the stereo module from version 12.0.2.0, for good sound on new vendors
+- Updated translation of settings
+- Fixed 4K video Recording
