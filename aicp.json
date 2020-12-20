@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "alex.msk",
+        "oem": "Xiaomi",
+        "device": "Poco X3 NFC",
+        "filename": "aicp_surya_r-16.1-UNOFFICIAL-20201220",
+        "download": "https://github.com/alex-msk-dev/alex-msk-dev.github.io/releases/download/aicp/aicp_surya_r-16.1-UNOFFICIAL-20201220",
+        "timestamp": 1608471630,
+        "md5": "804d0e939f521c9063c853c96c6b36c8",
+        "size": 1244036096,
+        "version": "16.1",
+        "buildtype": "FanEdition",
+        "forum": "https://forum.xda-developers.com/xiaomi-poco-x3-nfc",
+        "gapps": "https://opengapps.org/?arch=arm64&api=11.0&variant=nano",
+        "firmware": "https://bigota.d.miui.com/V12.0.3.0.QJGMIXM/miui_SURYAGlobal_V12.0.3.0.QJGMIXM_e2c7ace186_10.0.zip",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "https://forum.xda-developers.com/xiaomi-poco-x3-nfc/development/recovery-twrp-xiaomi-poco-x3-t4167199",
+        "paypal": "https://money.yandex.ru/to/410013551746262",
+        "telegram": "https://t.me/alex_msk_99"
+    }
+  ]
+}
